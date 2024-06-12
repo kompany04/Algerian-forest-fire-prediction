@@ -1,4 +1,4 @@
-# Algerian-forest-fire-prediction
+# Algerian-Forest-Fire-Prediction
 
 This project aims to predict the occurrence and spread of forest fires in Algeria using machine learning techniques.
 
